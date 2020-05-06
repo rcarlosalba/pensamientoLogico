@@ -1,0 +1,2 @@
+# pensamientoLogico
+Con MarceMaticas
