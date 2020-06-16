@@ -41,3 +41,16 @@ También pueden ser: inductiva (se induce a raíz de las premisas previas) y ded
 ## Conectivos lógicos
 Transofrman proposiciones simples en complejas.
 Existen 5: Negación, conjuunción, disyunción, condicional, bicondicional. 
+
+## Tipos de pensamiento 
+- Numérico 
+- Espacial 
+- Medida 
+- Aletatorio 
+- Variaciones
+
+
+
+
+
+
